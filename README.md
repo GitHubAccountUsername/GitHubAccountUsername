@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammed.
 - 👀 I’m interested in frontend developing.
-- 🌱 I’m currently learning flutter.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on new projects.
 - 📫 How to reach me: aljapairai@gmail.com.
 
