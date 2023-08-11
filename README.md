@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammed.
-- 👀 I’m interested in frontend developing.
+- 👀 I’m interested in fullstack developing.
 - 🌱 I’m currently learning a lot of things.
 - 💞️ I’m looking to collaborate on new projects.
 - 📫 How to reach me: aljapairai@gmail.com.
